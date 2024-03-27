@@ -1,4 +1,4 @@
-# ~~The Problem with Threads~~ Thread Considered Harmful
+# ~~The Problem with Threads~~ Threads Considered Harmful
 
 
 ## Проблемы многопоточного программирования
